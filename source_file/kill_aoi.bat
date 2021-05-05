@@ -1,0 +1,1 @@
+taskkill /F /IM Controler.exe /IM AreaGrabber.exe /IM sub_IP.exe /IM CellJudger.exe /IM CN_ViewJudgeREsult.exe /T
